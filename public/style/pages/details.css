@@ -1,0 +1,76 @@
+.page-details h5 {
+  font-weight: normal;
+  font-size: 18px;
+  color: #0c0d36;
+}
+
+.page-details .store-gallery {
+  margin-top: 20px;
+}
+
+.page-details .store-gallery img {
+  border-radius: 10px;
+}
+
+.page-details .store-gallery .thumbnail-image {
+  margin-bottom: 20px;
+  border: 2px solid transparent;
+}
+
+.page-details .store-gallery .thumbnail-image:hover, .page-details .store-gallery .thumbnail-image.active {
+  border: 2px solid #ff7158;
+}
+
+.page-details .store-heading {
+  margin-bottom: 10px;
+}
+
+.page-details .store-heading h1 {
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 36px;
+  color: #0c0d36;
+  margin-bottom: 0px;
+}
+
+.page-details .store-heading .owner {
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 21px;
+  margin-bottom: 8px;
+  color: #979797;
+}
+
+.page-details .store-heading .price {
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 27px;
+  color: #ff7158;
+  margin-bottom: 10px;
+}
+
+.page-details .store-description {
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 180%;
+  color: #525252;
+}
+
+.page-details .store-review .media img {
+  max-width: 50px;
+}
+
+.page-details .store-review .media-body {
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 180%;
+  color: #525252;
+  margin-bottom: 20px;
+}
+
+.page-details .store-review .media-body h5 {
+  font-weight: 500;
+  font-size: 16px;
+  color: #0c0d36;
+}
+/*# sourceMappingURL=details.css.map */
